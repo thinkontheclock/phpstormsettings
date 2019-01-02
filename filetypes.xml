@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="field_image" type="YAML" />
     </extensionMap>
   </component>
 </application>
