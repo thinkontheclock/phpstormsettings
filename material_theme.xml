@@ -3,7 +3,6 @@
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -15,6 +14,6 @@
     <option name="highlightColor" value="cb00a6" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-1ed6a315:1644b3b9016:-7fff" />
-    <option name="version" value="3.0.0-pre4" />
+    <option name="version" value="3.3.0" />
   </component>
 </application>
