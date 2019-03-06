@@ -1,5 +1,0 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ActivateRemoteHostToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" />
-  </action>
-</keymap>

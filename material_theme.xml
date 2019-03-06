@@ -1,19 +1,33 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Darcula" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
-    <option name="highlightThickness" value="1" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="upperCaseTabs" value="true" />
+    <option name="tabOpacity" value="61" />
+    <option name="treeFontSize" value="8" />
+    <option name="highlightThickness" value="3" />
+    <option name="leftTreeIndent" value="2" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="2de1ff" />
     <option name="highlightColor" value="cb00a6" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-1ed6a315:1644b3b9016:-7fff" />
-    <option name="version" value="3.3.0" />
+    <option name="version" value="3.5.0.1" />
+    <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
