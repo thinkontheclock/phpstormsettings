@@ -31,11 +31,11 @@
     <mask>*scss</mask>
     <mask>*helpers.inc</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*.inc</mask>
     <mask>*.twig</mask>
+    <mask>*.js</mask>
     <mask>*.scss</mask>
   </component>
 </application>
