@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="treeSelectionColor" value="2de1ff" />
+    <option name="highlightColor" value="425b67" />
+    <option name="secondBorderColor" value="1c2128" />
+    <option name="contrastColor" value="1e272c" />
+    <option name="secondaryBackgroundColor" value="1f2b30" />
+    <option name="buttonColor" value="2e3c43" />
+    <option name="selectionForegroundColor" value="ffffff" />
+    <option name="selectionBackgroundColor" value="546e7a" />
+    <option name="textColor" value="607d8b" />
+    <option name="foregroundColor" value="b0bec5" />
+    <option name="backgroundColor" value="1e2430" />
+  </component>
+</application>
