@@ -7,8 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -38,5 +37,6 @@
     <mask>*.inc</mask>
     <mask>*</mask>
     <mask>*.js</mask>
+    <mask>*.md</mask>
   </component>
 </application>
