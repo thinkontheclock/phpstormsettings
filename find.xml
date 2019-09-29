@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*twig" />
+    <option name="FILE_MASK" value="*inc" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -23,7 +23,6 @@
     <mask>*.</mask>
     <mask>*card.html.twig</mask>
     <mask>*yml</mask>
-    <mask>*inc</mask>
     <mask>*json</mask>
     <mask>*.md</mask>
     <mask>*.php</mask>
@@ -36,5 +35,6 @@
     <mask>*</mask>
     <mask>*scss</mask>
     <mask>*twig</mask>
+    <mask>*inc</mask>
   </component>
 </application>
