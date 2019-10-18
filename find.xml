@@ -31,10 +31,10 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
-    <mask>*js</mask>
     <mask>*scss</mask>
     <mask>*yml</mask>
     <mask>*twig</mask>
+    <mask>*js</mask>
     <mask>*inc</mask>
   </component>
 </application>
