@@ -5,8 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*inc" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -28,7 +27,6 @@
     <mask>*.yml</mask>
     <mask>*.inc</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*yml</mask>
@@ -36,5 +34,7 @@
     <mask>*js</mask>
     <mask>*twig</mask>
     <mask>*inc</mask>
+    <mask>*.module</mask>
+    <mask>*.js</mask>
   </component>
 </application>
