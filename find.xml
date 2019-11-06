@@ -30,11 +30,11 @@
     <mask>*.theme</mask>
     <mask>*.</mask>
     <mask>*</mask>
-    <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*inc</mask>
     <mask>*twig</mask>
     <mask>*.inc</mask>
+    <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.twig</mask>
   </component>
 </application>
