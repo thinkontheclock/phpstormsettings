@@ -30,11 +30,11 @@
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>bed</mask>
-    <mask>*.inc</mask>
     <mask>*</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.inc</mask>
     <mask>*.twig</mask>
   </component>
 </application>
