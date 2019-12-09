@@ -3,7 +3,7 @@
     <property name="created">2018-08-22T10:09:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-08-13T10:32:24</property>
+    <property name="modified">2019-12-09T12:27:17</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -16,10 +16,27 @@
     <option name="FILESTATUS_SWITCHED" value="" />
   </colors>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MT_DIRECTORIES">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="171c26" />
+        <option name="BACKGROUND" value="111111" />
       </value>
     </option>
   </attributes>
