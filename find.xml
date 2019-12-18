@@ -33,8 +33,8 @@
     <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.twig</mask>
     <mask>*.inc</mask>
   </component>
