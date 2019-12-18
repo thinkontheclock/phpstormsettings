@@ -3,14 +3,14 @@
     <property name="created">2018-01-16T13:41:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2019-12-09T20:52:23</property>
+    <property name="modified">2019-12-18T10:29:10</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1e2430" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="c0c0c" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
     <option name="GUTTER_BACKGROUND" value="c0c0c" />
     <option name="INDENT_GUIDE" value="292929" />
@@ -327,6 +327,7 @@
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+        <option name="BACKGROUND" value="c0c0c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
