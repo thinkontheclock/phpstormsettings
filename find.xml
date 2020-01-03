@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Sass" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -35,8 +35,8 @@
     <mask>*.lock</mask>
     <mask>*.</mask>
     <mask>*.inc</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.sass</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
