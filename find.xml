@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.inc" />
+    <option name="FILE_MASK" value="*.lock" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -27,7 +27,6 @@
     <mask>*scss</mask>
     <mask>*helpers.inc</mask>
     <mask>*.css</mask>
-    <mask>*.lock</mask>
     <mask>*.</mask>
     <mask>*.html</mask>
     <mask>*.sass</mask>
@@ -38,5 +37,6 @@
     <mask>*.module</mask>
     <mask>*.scss</mask>
     <mask>*.inc</mask>
+    <mask>*.lock</mask>
   </component>
 </application>
