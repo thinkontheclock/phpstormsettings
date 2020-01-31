@@ -7,7 +7,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -35,8 +34,8 @@
     <mask>*.lock</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>*.twig</mask>
     <mask>*.inc</mask>
     <mask>*.scss</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
