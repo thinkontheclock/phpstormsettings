@@ -32,11 +32,11 @@
     <mask>*.lock</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.Js</mask>
     <mask>*.inc</mask>
+    <mask>*.scss</mask>
     <mask>*.twig</mask>
   </component>
 </application>
