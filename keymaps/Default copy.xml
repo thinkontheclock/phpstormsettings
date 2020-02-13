@@ -15,6 +15,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
+  <action id="SearchEverywhereActions">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
