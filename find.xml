@@ -26,13 +26,13 @@
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.inc</mask>
     <mask>*yml</mask>
     <mask>*js</mask>
     <mask>*twig</mask>
     <mask>*scss</mask>
     <mask>*inc</mask>
     <mask>*</mask>
+    <mask>*.inc</mask>
     <mask>*.twig</mask>
   </component>
 </application>
