@@ -1,10 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Darcula" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="styledDirectories" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
@@ -19,6 +23,6 @@
     <option name="highlightColor" value="cb00a6" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-1ed6a315:1644b3b9016:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
