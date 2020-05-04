@@ -2,30 +2,13 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
-  <action id="FullyExpandTreeNode">
-    <keyboard-shortcut first-keystroke="shift ctrl meta 8" />
-  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
-  <action id="SearchEverywhereActions">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
-  <action id="TerminalSplitActionBase$Horizontal">
-    <keyboard-shortcut first-keystroke="shift alt d" />
-  </action>
-  <action id="TerminalSplitActionBase$Vertical">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="hg4idea.QFold" />
 </keymap>

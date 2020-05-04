@@ -3,17 +3,17 @@
     <property name="created">2018-01-16T13:41:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2019-12-18T10:29:10</property>
+    <property name="modified">2019-07-09T08:06:00</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="CARET_COLOR" value="528bff" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="c0c0c" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1e2430" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
-    <option name="GUTTER_BACKGROUND" value="c0c0c" />
-    <option name="INDENT_GUIDE" value="292929" />
+    <option name="GUTTER_BACKGROUND" value="1e2430" />
+    <option name="INDENT_GUIDE" value="262d3b" />
     <option name="LINE_NUMBERS_COLOR" value="5c6370" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="RIGHT_MARGIN_COLOR" value="5c6370" />
@@ -327,7 +327,6 @@
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="BACKGROUND" value="c0c0c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -778,7 +777,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="a2f6" />
+        <option name="FOREGROUND" value="6af669" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -958,7 +957,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="72ffdf" />
+        <option name="FOREGROUND" value="5aaef1" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -984,18 +983,13 @@
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="f65161" />
       </value>
     </option>
     <option name="JS.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="59626f" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.LOCAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="a2f6" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -1015,8 +1009,7 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f67d88" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f65161" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1348,7 +1341,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="a2f6" />
+        <option name="FOREGROUND" value="6af669" />
       </value>
     </option>
     <option name="PHP_TAG">
@@ -2073,7 +2066,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="111111" />
+        <option name="BACKGROUND" value="171c26" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
