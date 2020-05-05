@@ -3,7 +3,7 @@
     <property name="created">2018-08-22T10:09:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2020-05-05T09:07:00</property>
+    <property name="modified">2019-08-13T10:32:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -19,7 +19,7 @@
     <option name="MT_DIRECTORIES">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="30310" />
+        <option name="BACKGROUND" value="171c26" />
       </value>
     </option>
   </attributes>
