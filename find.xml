@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,12 +30,12 @@
     <mask>*helpers.inc</mask>
     <mask>*.css</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*.inc</mask>
     <mask>*.sass</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
