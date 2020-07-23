@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="b8830b08-bd8b-413e-84e3-849519dbd213" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
@@ -13,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.23">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -74,7 +68,6 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
