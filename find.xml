@@ -31,12 +31,12 @@
     <mask>*twig</mask>
     <mask>*inc</mask>
     <mask>*.scss</mask>
-    <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.inc</mask>
     <mask>*.twig</mask>
   </component>
 </application>
