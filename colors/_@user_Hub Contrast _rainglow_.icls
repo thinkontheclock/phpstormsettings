@@ -4,12 +4,12 @@
     <property name="created">2020-08-04T16:18:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-04T17:04:08</property>
+    <property name="modified">2020-08-10T17:03:21</property>
     <property name="originalScheme">Hub Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
