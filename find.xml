@@ -27,7 +27,6 @@
     <mask>*.sass</mask>
     <mask>*twig</mask>
     <mask>*inc</mask>
-    <mask>*.inc</mask>
     <mask>*.</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
@@ -37,6 +36,7 @@
     <mask>*.yml</mask>
     <mask>*.module</mask>
     <mask>*.libraries.yml</mask>
+    <mask>*.inc</mask>
     <mask>*</mask>
   </component>
 </application>
