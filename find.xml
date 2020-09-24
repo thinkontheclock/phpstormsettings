@@ -30,13 +30,13 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
-    <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.module</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.inc</mask>
     <mask>*</mask>
     <mask>*module</mask>
+    <mask>*.twig</mask>
     <mask>*.scss</mask>
   </component>
 </application>
