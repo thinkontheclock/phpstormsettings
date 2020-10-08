@@ -24,7 +24,6 @@
     <mask>*.</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*.libraries.yml</mask>
     <mask>*module</mask>
     <mask>*.inc</mask>
@@ -34,8 +33,9 @@
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*.scss</mask>
-    <mask>*.twig</mask>
     <mask>*.module</mask>
+    <mask>*.twig</mask>
+    <mask>*.yml</mask>
     <mask>*.js</mask>
   </component>
 </application>
