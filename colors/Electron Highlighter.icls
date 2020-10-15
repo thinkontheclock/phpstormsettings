@@ -3,7 +3,7 @@
     <property name="created">2018-01-16T13:41:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2020-07-17T08:17:50</property>
+    <property name="modified">2020-10-15T11:41:49</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -2140,7 +2140,7 @@
     </option>
     <option name="TWIG_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="6af669" />
+        <option name="FOREGROUND" value="dc00ff" />
       </value>
     </option>
     <option name="TWIG_COMMENT">
@@ -2151,7 +2151,7 @@
     </option>
     <option name="TWIG_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f65161" />
+        <option name="FOREGROUND" value="e65965" />
       </value>
     </option>
     <option name="TWIG_KEYWORD">
@@ -2161,7 +2161,7 @@
     </option>
     <option name="TWIG_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="6af669" />
       </value>
     </option>
     <option name="TWIG_OPERATION_SIGN">
