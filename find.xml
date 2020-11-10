@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*scss" />
     <mask>*global.js</mask>
     <mask>*php`</mask>
     <mask>*yml</mask>
@@ -16,7 +16,6 @@
     <mask>*.html.twig</mask>
     <mask>*js</mask>
     <mask>*php</mask>
-    <mask>*scss</mask>
     <mask>*helpers.inc</mask>
     <mask>*.css</mask>
     <mask>*.sass</mask>
@@ -33,10 +32,11 @@
     <mask>*.js</mask>
     <mask>*.inc</mask>
     <mask>*inc</mask>
-    <mask>*</mask>
     <mask>*.module</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
+    <mask>*</mask>
+    <mask>*scss</mask>
   </component>
 </application>
