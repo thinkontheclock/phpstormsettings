@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.module" />
     <mask>*sass</mask>
     <mask>global.js</mask>
     <mask>*.html.twig</mask>
@@ -26,7 +27,6 @@
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*.scss</mask>
-    <mask>*.module</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
@@ -37,5 +37,6 @@
     <mask>*inc</mask>
     <mask>*twig</mask>
     <mask>preprocess*</mask>
+    <mask>*.module</mask>
   </component>
 </application>
