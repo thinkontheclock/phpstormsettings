@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="styledDirectories" value="true" />
@@ -11,6 +12,7 @@
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
@@ -19,10 +21,10 @@
     <option name="leftTreeIndent" value="2" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="00c5ff" />
     <option name="highlightColor" value="cb00a6" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-1ed6a315:1644b3b9016:-7fff" />
-    <option name="version" value="5.2.0" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
