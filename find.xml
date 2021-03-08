@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*twig" />
+    <option name="FILE_MASK" value="*inc" />
     <mask>*global.js</mask>
     <mask>*php`</mask>
     <mask>*sass</mask>
@@ -32,11 +32,11 @@
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.inc</mask>
-    <mask>*inc</mask>
     <mask>*yml</mask>
     <mask>*.module</mask>
     <mask>*.twig</mask>
     <mask>*</mask>
     <mask>*twig</mask>
+    <mask>*inc</mask>
   </component>
 </application>
