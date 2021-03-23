@@ -11,4 +11,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
 </keymap>
