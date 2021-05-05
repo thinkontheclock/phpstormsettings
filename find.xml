@@ -2,36 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
+    <mask>*global.js</mask>
+    <mask>*php`</mask>
+    <mask>*yml</mask>
+    <mask>*sass</mask>
     <mask>global.js</mask>
+    <mask>*.html.twig</mask>
+    <mask>*js</mask>
     <mask>*php</mask>
+    <mask>*scss</mask>
     <mask>*helpers.inc</mask>
     <mask>*.css</mask>
     <mask>*.sass</mask>
+    <mask>*twig</mask>
     <mask>*.</mask>
     <mask>*.json</mask>
     <mask>*.libraries.yml</mask>
+    <mask>*module</mask>
     <mask>.js</mask>
     <mask>js</mask>
     <mask>.scss</mask>
     <mask>.module</mask>
-    <mask>*.yml</mask>
+    <mask>*.scss</mask>
+    <mask>*.module</mask>
     <mask>*.js</mask>
     <mask>*.inc</mask>
-    <mask>*.module</mask>
-    <mask>*yml</mask>
-    <mask>*module</mask>
-    <mask>*cure</mask>
-    <mask>*.html.twig</mask>
-    <mask>preprocess</mask>
-    <mask>twig</mask>
     <mask>*inc</mask>
-    <mask>*.twig</mask>
     <mask>*.php</mask>
-    <mask>*twig</mask>
-    <mask>*.scss</mask>
-    <mask>*js</mask>
+    <mask>*.yml</mask>
     <mask>*</mask>
-    <mask>*scss</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
