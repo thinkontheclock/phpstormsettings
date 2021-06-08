@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*global.js</mask>
     <mask>*php`</mask>
     <mask>*yml</mask>
@@ -30,9 +30,9 @@
     <mask>*twig</mask>
     <mask>*scss</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*</mask>
     <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
