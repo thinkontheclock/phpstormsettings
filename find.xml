@@ -22,7 +22,6 @@
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*.module</mask>
-    <mask>*.php</mask>
     <mask>*inc</mask>
     <mask>*twig</mask>
     <mask>*scss</mask>
@@ -33,6 +32,7 @@
     <mask>*.inc</mask>
     <mask>*</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
     <mask>*.scss</mask>
   </component>
 </application>
