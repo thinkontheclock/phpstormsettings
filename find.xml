@@ -23,7 +23,6 @@
     <mask>.module</mask>
     <mask>*.module</mask>
     <mask>*inc</mask>
-    <mask>*scss</mask>
     <mask>*.htaccess</mask>
     <mask>*.gitignore</mask>
     <mask>*.js</mask>
@@ -33,6 +32,7 @@
     <mask>*.inc</mask>
     <mask>*.twig</mask>
     <mask>*</mask>
+    <mask>*scss</mask>
     <mask>*twig</mask>
   </component>
 </application>
