@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*yml</mask>
     <mask>*sass</mask>
     <mask>global.js</mask>
@@ -26,13 +26,13 @@
     <mask>*.gitignore</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
-    <mask>*.inc</mask>
     <mask>*twig</mask>
     <mask>*.php</mask>
     <mask>*php</mask>
     <mask>*scss</mask>
-    <mask>*.scss</mask>
-    <mask>*.twig</mask>
     <mask>*</mask>
+    <mask>*.inc</mask>
+    <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
