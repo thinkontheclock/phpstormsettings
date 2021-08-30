@@ -4,6 +4,7 @@
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -21,9 +22,9 @@
     <option name="highlightThickness" value="1" />
     <option name="leftTreeIndent" value="2" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="84ffff" />
+    <option name="accentColor" value="3d3d3d" />
     <option name="highlightColor" value="cb00a6" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-1ed6a315:1644b3b9016:-7fff" />
     <option name="version" value="5.5.0" />
   </component>
