@@ -30,11 +30,11 @@
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.module</mask>
-    <mask>*.inc</mask>
     <mask>*scss</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.inc</mask>
     <mask>*.twig</mask>
   </component>
 </application>
