@@ -4,7 +4,7 @@
     <property name="created">2021-05-05T08:48:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-10-21T17:23:20</property>
+    <property name="modified">2021-10-29T11:33:40</property>
     <property name="originalScheme">Lotus Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -882,7 +882,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fc9867" />
@@ -899,9 +899,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_ID" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="78dce8" />
@@ -2886,8 +2886,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
