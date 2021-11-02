@@ -11,7 +11,6 @@
     <mask>*js</mask>
     <mask>*helpers.inc</mask>
     <mask>*.css</mask>
-    <mask>*.sass</mask>
     <mask>*.libraries.yml</mask>
     <mask>*module</mask>
     <mask>.js</mask>
@@ -35,5 +34,6 @@
     <mask>*.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
