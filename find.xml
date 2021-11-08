@@ -31,9 +31,9 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*</mask>
     <mask>*.sass</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
