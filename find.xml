@@ -6,14 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
-    <mask>*sass</mask>
-    <mask>global.js</mask>
-    <mask>*.html.twig</mask>
-    <mask>*js</mask>
-    <mask>*helpers.inc</mask>
-    <mask>*.css</mask>
-    <mask>*.libraries.yml</mask>
-    <mask>*module</mask>
     <mask>.js</mask>
     <mask>js</mask>
     <mask>.scss</mask>
@@ -24,17 +16,25 @@
     <mask>*twig</mask>
     <mask>*php</mask>
     <mask>*.</mask>
-    <mask>*.module</mask>
     <mask>*scss</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
-    <mask>*.inc</mask>
     <mask>*.scss</mask>
     <mask>*.services.yml</mask>
     <mask>*</mask>
     <mask>*.sass</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
     <mask>*.js</mask>
   </component>
 </application>
