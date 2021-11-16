@@ -4,7 +4,7 @@
     <property name="created">2021-02-12T08:06:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-12T08:17:26</property>
+    <property name="modified">2021-11-16T18:40:32</property>
     <property name="originalScheme">Arc Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -39,24 +39,28 @@
     <option name="DOCUMENTATION_COLOR" value="262b33" />
     <option name="DOC_COMMENT_GUIDE" value="5c6066" />
     <option name="DOC_COMMENT_LINK" value="7587a6" />
-    <option name="FILESTATUS_ADDED" value="8f9d6a" />
-    <option name="FILESTATUS_COPIED" value="8f9d6a" />
-    <option name="FILESTATUS_DELETED" value="a7a7a7" />
-    <option name="FILESTATUS_HIJACKED" value="47bc9b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="a9dc76" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="9b859d" />
-    <option name="FILESTATUS_MODIFIED" value="f9ee98" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9ee98" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9ee98" />
-    <option name="FILESTATUS_OBSOLETE" value="a7a7a7" />
-    <option name="FILESTATUS_SUPPRESSED" value="5f5a60" />
-    <option name="FILESTATUS_SWITCHED" value="9b859d" />
+    <option name="FILESTATUS_MERGED" value="ab9df2" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="8f9d6a" />
-    <option name="FILESTATUS_modifiedOutside" value="9b859d" />
+    <option name="FILESTATUS_addedOutside" value="a9dc76" />
+    <option name="FILESTATUS_changelistConflict" value="f65f87" />
+    <option name="FILESTATUS_modifiedOutside" value="78dce8" />
     <option name="GUTTER_BACKGROUND" value="262b33" />
     <option name="INDENT_GUIDE" value="464b52" />
     <option name="INFORMATION_HINT" value="262b33" />
@@ -2922,7 +2926,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="47bc9b" />
