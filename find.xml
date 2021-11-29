@@ -19,6 +19,11 @@
     <mask>*.json</mask>
     <mask>*.services.yml</mask>
     <mask>*.sass</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>*.librarie</mask>
+    <mask>*</mask>
+    <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,11 +35,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
-    <mask>*.yml</mask>
-    <mask>*.librarie</mask>
-    <mask>*</mask>
-    <mask>*.scss</mask>
     <mask>*.twig</mask>
   </component>
 </application>
