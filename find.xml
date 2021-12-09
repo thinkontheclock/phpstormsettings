@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*inc</mask>
@@ -18,6 +18,11 @@
     <mask>*.services.yml</mask>
     <mask>*.sass</mask>
     <mask>*.librarie</mask>
+    <mask>*.twig</mask>
+    <mask>*.yml</mask>
+    <mask>*.</mask>
+    <mask>*.js</mask>
+    <mask>*.lock</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -26,15 +31,10 @@
     <mask>*.php5</mask>
     <mask>*.ctp</mask>
     <mask>*.hphp</mask>
-    <mask>*.twig</mask>
-    <mask>*.scss</mask>
-    <mask>*.yml</mask>
-    <mask>*.</mask>
-    <mask>*.js</mask>
-    <mask>*.lock</mask>
-    <mask>*.inc</mask>
     <mask>*.module</mask>
+    <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
