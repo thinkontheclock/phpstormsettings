@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*inc</mask>
@@ -31,10 +31,10 @@
     <mask>*.ctp</mask>
     <mask>*.hphp</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.inc</mask>
     <mask>*.module</mask>
     <mask>*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
