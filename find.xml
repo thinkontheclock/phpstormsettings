@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.services.yml" />
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*inc</mask>
@@ -14,7 +15,6 @@
     <mask>*php</mask>
     <mask>*scss</mask>
     <mask>*.json</mask>
-    <mask>*.services.yml</mask>
     <mask>*.sass</mask>
     <mask>*.librarie</mask>
     <mask>*.twig</mask>
@@ -35,5 +35,6 @@
     <mask>*.module</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
+    <mask>*.services.yml</mask>
   </component>
 </application>
