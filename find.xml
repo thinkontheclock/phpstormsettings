@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>.scss</mask>
     <mask>.module</mask>
     <mask>*inc</mask>
@@ -21,7 +21,6 @@
     <mask>*.yml</mask>
     <mask>*.</mask>
     <mask>*.lock</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.services.yml</mask>
     <mask>*.css</mask>
@@ -36,5 +35,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
