@@ -3,9 +3,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -26,6 +23,6 @@
     <option name="highlightColor" value="cb00a6" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-1ed6a315:1644b3b9016:-7fff" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.12.2" />
   </component>
 </application>
