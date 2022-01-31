@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>.module</mask>
     <mask>*inc</mask>
     <mask>*.htaccess</mask>
@@ -13,7 +13,6 @@
     <mask>*twig</mask>
     <mask>*php</mask>
     <mask>*scss</mask>
-    <mask>*.sass</mask>
     <mask>*.librarie</mask>
     <mask>*.</mask>
     <mask>*.services.yml</mask>
@@ -36,5 +35,6 @@
     <mask>*.install</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
