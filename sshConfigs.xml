@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="sbox-4.vsrv.io" id="6a2af113-0845-4af9-8cca-1bb8734d4284" keyPath="$USER_HOME$/.ssh/VERB" port="22" customName="matt@sbox-4.vsrv.io" nameFormat="CUSTOM" username="matt" useOpenSSHConfig="true">
+        <option name="customName" value="matt@sbox-4.vsrv.io" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
