@@ -4,7 +4,7 @@
     <property name="created">2022-02-09T08:47:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-02-09T08:51:56</property>
+    <property name="modified">2022-02-10T10:23:02</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -150,7 +150,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="444251" />
     <option name="SELECTED_INDENT_GUIDE" value="a148ab80" />
     <option name="SELECTED_TEARLINE_COLOR" value="463564" />
-    <option name="SELECTION_BACKGROUND" value="463465" />
+    <option name="SELECTION_BACKGROUND" value="1f172f" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SEPARATOR_BELOW_COLOR" value="222436" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="222436" />
