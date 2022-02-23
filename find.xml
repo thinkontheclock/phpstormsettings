@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.inc" />
     <mask>.module</mask>
     <mask>*inc</mask>
     <mask>*.gitignore</mask>
@@ -32,9 +32,9 @@
     <mask>*.htaccess</mask>
     <mask>*.services.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.inc</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.inc</mask>
   </component>
 </application>
