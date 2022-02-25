@@ -4,7 +4,7 @@
     <property name="created">2022-02-09T08:47:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-02-25T11:26:39</property>
+    <property name="modified">2022-02-25T13:10:30</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,6 +17,8 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="206d4b" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
