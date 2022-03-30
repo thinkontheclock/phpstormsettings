@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*inc</mask>
     <mask>*.gitignore</mask>
     <mask>*twig</mask>
@@ -31,10 +31,10 @@
     <mask>*.php</mask>
     <mask>*services.yml</mask>
     <mask>*.services.yml</mask>
-    <mask>*.twig</mask>
     <mask>*.module</mask>
     <mask>*.yml</mask>
     <mask>*</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
